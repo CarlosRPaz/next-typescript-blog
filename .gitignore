@@ -2,9 +2,11 @@
 
 # dependencies
 /node_modules
-/sanityblog/node_modules
 /.pnp
 .pnp.js
+
+# sanity
+/sanityblog/node_modules
 
 # testing
 /coverage
